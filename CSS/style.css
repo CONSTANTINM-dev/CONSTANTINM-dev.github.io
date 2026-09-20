@@ -1,0 +1,13 @@
+body
+{
+background-color:white;	
+}
+p
+{
+border : 3px solid black;
+border-radius : 25px;
+border-style : inset;
+margin : 10px;
+padding: 10px;
+background-color: aliceblue;
+}
